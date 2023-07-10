@@ -32,11 +32,6 @@ Track your progress by updating the table below with links to your daily code.
 | Day | Code |
 | --- | ---- |
 | 1   | [Day 1](./day1) |
-| 2   | [Day 2](./day2) |
-| 3   | [Day 3](./day3) |
-| ... | ...  |
-| 100 | [Day 100](./day100) |
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
