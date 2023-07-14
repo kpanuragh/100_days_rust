@@ -40,7 +40,7 @@ let s2 = s1;
 ```
 But in this the s1 pointer and length and capcity are stored in stack all other values are stored in heap pointer point to the memory location of heap. when we are copy s1 and s2 it will actully copy s1 stack to s2 stack memory but heap is same 
 ![STRING](https://doc.rust-lang.org/book/img/trpl04-02.svg)  
-But here the problem like if s2 or s1 is out of scope rust call drop function and it will also clear both of the memory it will case `double free` 
+But here the problem like if s2 or s1 is out of scope rust call drop function and it will also clear both of the memory it will case `double free ` error 
 ```rust
 let s1 = String::from("hello");
 let s2 = s1;
