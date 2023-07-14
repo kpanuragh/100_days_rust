@@ -36,6 +36,7 @@ Track your progress by updating the table below with links to your daily code.
 | 3   | [Day 3](./day3) |
 | 4   | [Day 4](./day4) |
 | 5   | [Day 5](./day5) |
+| 6   | [Day 6](./day6) |
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
